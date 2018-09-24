@@ -30,7 +30,8 @@
     },
     "testMatch": [
       "**/**/*.spec.(ts|tsx)"
-    ]
+    ],
+    "testEnvironment": "node"
   },
   "author": "",
   "license": "ISC",
